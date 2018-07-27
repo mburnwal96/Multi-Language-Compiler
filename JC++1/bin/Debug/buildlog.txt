@@ -1,0 +1,19 @@
+C:\Users\ESH\Documents\numgam.c: In function 'main':
+C:\Users\ESH\Documents\numgam.c:92:3: warning: implicit declaration of function 'exit' [-Wimplicit-function-declaration]
+   exit(0);
+   ^
+C:\Users\ESH\Documents\numgam.c:92:3: warning: incompatible implicit declaration of built-in function 'exit'
+C:\Users\ESH\Documents\numgam.c:92:3: note: include '<stdlib.h>' or provide a declaration of 'exit'
+C:\Users\ESH\Documents\numgam.c:114:10: warning: incompatible implicit declaration of built-in function 'exit'
+          exit(0);
+          ^
+C:\Users\ESH\Documents\numgam.c:114:10: note: include '<stdlib.h>' or provide a declaration of 'exit'
+C:\Users\ESH\Documents\numgam.c:117:8: warning: implicit declaration of function 'toupper' [-Wimplicit-function-declaration]
+      m=toupper(getche());
+        ^
+C:\Users\ESH\Documents\numgam.c:117:16: warning: implicit declaration of function 'getche' [-Wimplicit-function-declaration]
+      m=toupper(getche());
+                ^
+C:\Users\ESH\Documents\numgam.c:145:6: warning: implicit declaration of function 'getch' [-Wimplicit-function-declaration]
+      getch();
+      ^

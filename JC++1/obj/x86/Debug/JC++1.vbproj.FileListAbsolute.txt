@@ -1,0 +1,34 @@
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\bin\Debug\JC++1.exe
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\bin\Debug\JC++1.pdb
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\bin\Debug\JC++1.xml
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\obj\x86\Debug\JC__.Form1.resources
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\obj\x86\Debug\JC__.MDIParent1.resources
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\obj\x86\Debug\JC__.Resources.resources
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\obj\x86\Debug\JC++1.vbproj.GenerateResource.Cache
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\obj\x86\Debug\JC++1.exe
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\obj\x86\Debug\JC++1.xml
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\obj\x86\Debug\JC++1.pdb
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\obj\x86\Debug\JC++1.vbprojResolveAssemblyReference.cache
+D:\V B .Net\VB.NET Functions Collection and Project\JC++1\JC++1\obj\x86\Debug\JC__.Form2.resources
+E:\MKB_PC_BackUP\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC++1.exe
+E:\MKB_PC_BackUP\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC++1.xml
+E:\MKB_PC_BackUP\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC++1.pdb
+E:\MKB_PC_BackUP\V B .Net\My Project\JC++1\JC++1\bin\Debug\JC++1.exe
+E:\MKB_PC_BackUP\V B .Net\My Project\JC++1\JC++1\bin\Debug\JC++1.pdb
+E:\MKB_PC_BackUP\V B .Net\My Project\JC++1\JC++1\bin\Debug\JC++1.xml
+E:\MKB_PC_BackUP\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC++1.vbprojResolveAssemblyReference.cache
+E:\MKB_PC_BackUP\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC__.Form1.resources
+E:\MKB_PC_BackUP\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC__.MDIParent1.resources
+E:\MKB_PC_BackUP\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC__.Resources.resources
+E:\MKB_PC_BackUP\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC++1.vbproj.GenerateResource.Cache
+F:\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC++1.exe
+F:\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC++1.xml
+F:\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC++1.pdb
+F:\V B .Net\My Project\JC++1\JC++1\bin\Debug\JC++1.exe
+F:\V B .Net\My Project\JC++1\JC++1\bin\Debug\JC++1.pdb
+F:\V B .Net\My Project\JC++1\JC++1\bin\Debug\JC++1.xml
+F:\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC++1.vbprojResolveAssemblyReference.cache
+F:\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC__.Form1.resources
+F:\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC__.MDIParent1.resources
+F:\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC__.Resources.resources
+F:\V B .Net\My Project\JC++1\JC++1\obj\x86\Debug\JC++1.vbproj.GenerateResource.Cache
